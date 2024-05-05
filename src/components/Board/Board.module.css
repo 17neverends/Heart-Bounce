@@ -1,0 +1,23 @@
+.board {
+  border-radius: 20px;
+  min-width: 30vw;
+  min-height: 50vh;
+  box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.4);
+}
+
+
+
+.heart {
+    position: absolute;
+    pointer-events: none; 
+    animation: flyUp 2s linear;
+  }
+  
+  @keyframes flyUp {
+    from {
+      transform: translateY(0);
+    }
+    to {
+      transform: translateY(-100vh); 
+    }
+  }
