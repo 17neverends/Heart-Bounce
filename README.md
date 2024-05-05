@@ -1,12 +1,12 @@
 # Heart bounce <3 S
 
 - Icons source : https://www.flaticon.com/free-icon/heart_2077502?term=heart&page=1&position=3&origin=search&related_id=2077502
-
+<br>
 **Режим Hover:**
 - Когда курсор активен в одном из блоков, то от него вверх появляются сердечки, размер и частоту появления которых Вы можете настроить
 
 **В режиме Click** чем дольше удерживаете нажатой ЛКМ, тем больше сердечко появится. Также можно настроить
-
+<br>
 **Hover Mode:**
 - When the cursor is active in one of the blocks, hearts appear up from it, the size and frequency of which you can adjust
 
